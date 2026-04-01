@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ninja",
+  "name": "obj_boxes",
   "spriteId": {
-    "name": "spr_ninja_right",
-    "path": "sprites/spr_ninja_right/spr_ninja_right.yy",
+    "name": "spr_boxes",
+    "path": "sprites/spr_boxes/spr_boxes.yy",
   },
   "solid": false,
   "visible": true,
