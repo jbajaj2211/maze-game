@@ -3,10 +3,12 @@
   "resourceVersion": "1.6",
   "name": "maze-game",
   "resources": [
-    {"id":{"name":"spr_boxes","path":"sprites/spr_boxes/spr_boxes.yy",},"order":1,},
-    {"id":{"name":"spr_character_running","path":"sprites/spr_character_running/spr_character_running.yy",},"order":3,},
-    {"id":{"name":"spr_character_standing","path":"sprites/spr_character_standing/spr_character_standing.yy",},"order":2,},
-    {"id":{"name":"obj_boxes","path":"objects/obj_boxes/obj_boxes.yy",},"order":1,},
+    {"id":{"name":"spr_ninja_left","path":"sprites/spr_ninja_left/spr_ninja_left.yy",},"order":4,},
+    {"id":{"name":"spr_boxes","path":"sprites/spr_boxes/spr_boxes.yy",},"order":3,},
+    {"id":{"name":"spr_ninja_right","path":"sprites/spr_ninja_right/spr_ninja_right.yy",},"order":2,},
+    {"id":{"name":"obj_boxes","path":"objects/obj_boxes/obj_boxes.yy",},"order":3,},
+    {"id":{"name":"spr_ninja_up","path":"sprites/spr_ninja_up/spr_ninja_up.yy",},"order":5,},
+    {"id":{"name":"obj_ninja_right","path":"objects/obj_ninja_right/obj_ninja_right.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
