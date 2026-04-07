@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_boxes",
+  "name": "Object5",
   "spriteId": {
-    "name": "spr_boxes",
-    "path": "sprites/spr_boxes/spr_boxes.yy",
+    "name": "spr_winscreen",
+    "path": "sprites/spr_winscreen/spr_winscreen.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,9 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ninja_right","path":"objects/obj_ninja_right/obj_ninja_right.yy",},},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

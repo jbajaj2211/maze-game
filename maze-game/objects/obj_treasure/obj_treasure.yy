@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_boxes",
+  "name": "obj_treasure",
   "spriteId": {
-    "name": "spr_boxes",
-    "path": "sprites/spr_boxes/spr_boxes.yy",
+    "name": "spr_treasure",
+    "path": "sprites/spr_treasure/spr_treasure.yy",
   },
   "solid": false,
   "visible": true,
