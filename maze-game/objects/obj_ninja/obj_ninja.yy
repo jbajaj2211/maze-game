@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ninja_right",
+  "name": "obj_ninja",
   "spriteId": {
     "name": "spr_ninja_right",
     "path": "sprites/spr_ninja_right/spr_ninja_right.yy",
