@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Particles.Effect
+/// @DnDVersion : 1
+/// @DnDHash : 6BB9F69A
+/// @DnDArgument : "size" "1"
+effect_create_below(0, 0, 0, 1, $FFFFFF & $ffffff);
+
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 4E387F53
