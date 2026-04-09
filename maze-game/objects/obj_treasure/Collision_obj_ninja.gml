@@ -23,5 +23,5 @@ image_index = 0;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 3AE69EF1
-/// @DnDArgument : "steps" "6"
-alarm_set(0, 6);
+/// @DnDArgument : "steps" "7"
+alarm_set(0, 7);
