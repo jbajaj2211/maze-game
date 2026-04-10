@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_spikes",
+  "name": "obj_flame",
   "spriteId": {
-    "name": "spr_spikes",
-    "path": "sprites/spr_spikes/spr_spikes.yy",
+    "name": "spr_flame",
+    "path": "sprites/spr_flame/spr_flame.yy",
   },
   "solid": false,
   "visible": true,

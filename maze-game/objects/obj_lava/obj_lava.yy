@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_spikes",
+  "name": "obj_lava",
   "spriteId": {
-    "name": "spr_spikes",
-    "path": "sprites/spr_spikes/spr_spikes.yy",
+    "name": "spr_lava",
+    "path": "sprites/spr_lava/spr_lava.yy",
   },
   "solid": false,
   "visible": true,

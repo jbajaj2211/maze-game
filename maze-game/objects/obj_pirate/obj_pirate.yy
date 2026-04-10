@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object5",
+  "name": "obj_pirate",
   "spriteId": {
-    "name": "spr_winscreen",
-    "path": "sprites/spr_winscreen/spr_winscreen.yy",
+    "name": "spr_pirate",
+    "path": "sprites/spr_pirate/spr_pirate.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ninja","path":"objects/obj_ninja/obj_ninja.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
